@@ -1,6 +1,7 @@
-# Greetings! 👋
+## Hi there,👋 I am Benison Binoy
+[![My Skills](https://skillicons.dev/icons?i=mysql,mongodb,androidstudio,py,java,c,cpp,powershell,ps,linux,linkedin,github&theme=light)](https://skillicons.dev)
 
-I'm Benison, a dedicated B.Tech Computer Science student with a focus on Artificial Intelligence and Machine Learning. My passion lies in exploring cutting-edge technologies to create meaningful and positive impacts.
+A dedicated B.Tech Computer Science student with a focus on Artificial Intelligence and Machine Learning. My passion lies in exploring cutting-edge technologies to create meaningful and positive impacts.
 
 ## Skills 🚀
 - **Programming Experience:**
