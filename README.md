@@ -8,12 +8,14 @@ A dedicated B.Tech Computer Science student with a focus on Artificial Intellige
   - **Java**
   - **Python**
   - **C (Programming Language)**
+- **HTML**
+- **CSS**
 - **Microsoft PowerPoint**
 - **Oracle SQL Developer**
 - **Data Analysis**
 - **Big Data**
 - **Oracle Database**
-- **HTML**
+
 
 ## Education 📚
 - **Bachelor of Technology in Computer Science (AI & ML)**
