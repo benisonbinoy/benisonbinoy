@@ -28,7 +28,7 @@ A dedicated B.Tech Computer Science student with a focus on Artificial Intellige
 
 Feel free to explore my repositories and projects. Let's connect and collaborate on exciting ventures! 🚀
 
-## <img src="https://media.giphy.com/media/ZCN6F3FAkwsyOGU2RS/giphy.gif" width="40"> **Github Stats:** ️<table>
+## Github Stats 🔥
   <tr>
     <td>
       <a href="https://github.com/benisonbinoy"><img alt="Benison's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=benison&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1d2a3a" /></a>
