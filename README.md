@@ -28,18 +28,6 @@ A dedicated B.Tech Computer Science student with a focus on Artificial Intellige
 
 Feel free to explore my repositories and projects. Let's connect and collaborate on exciting ventures! 🚀
 
-## Github Stats 🔥
-  <tr>
-    <td>
-      <a href="https://github.com/benisonbinoy"><img alt="Benison's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=benison&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1d2a3a" /></a>
-    </td>                        
-    <td>
-      <a href="https://github.com/benisonbinoy"><img src="https://github-readme-streak-stats.herokuapp.com/?user=benisonbinoy&stroke=ffffff&background=1d2a3a&ring=5BCDEC&fire=5BCDEC&currStreakNum=ffffff&currStreakLabel=5BCDEC&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-    </td>
-    <td>
-      <a href="https://github.com/benisonbinoy"><img alt="Benison's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=benisonbinoy&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=1d2a3a"/></a>
-    </td>
-  </tr>
 </table>
 
 
